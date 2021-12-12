@@ -1,0 +1,6 @@
+{
+    "debug": true,
+    "model_size": "small",
+    "vocab_size": 64000,
+    "do_lower_case": false
+}
